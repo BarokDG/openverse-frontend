@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[33],{1594:function(module){module.exports=JSON.parse('{"header":{"notification":{"okay":"موافق","dismiss":"إخفاء"},"resources-tab":"المصادر","about-tab":"حول"}}')}}]);
